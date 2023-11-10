@@ -1,1 +1,1 @@
-Covid19Tracker
+CovidTrackU
