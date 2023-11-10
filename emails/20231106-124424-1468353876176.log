@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your Email Address
+From: webmaster@localhost
+To: sanjograj30@gmail.com
+Date: Mon, 06 Nov 2023 17:44:24 -0000
+Message-ID: <169929266414.2384.12559586327051670373@Sanjog.uwindsor.ca>
+
+Hello from example.com!
+
+You're receiving this email because user sanjograj30@gmail.com has given your email address to register an account on example.com.
+
+To confirm this is correct, go to http://127.0.0.1:8000/accounts/confirm-email/MQ:1r03eC:wEK9wkXp_bKCJIapdHN_W4dUCuA-o9i7A6u0CiWe4Ik/
+
+Thank you for using example.com!
+example.com
+-------------------------------------------------------------------------------
